@@ -1,3 +1,4 @@
+<pre>
 # coffee
 starbucks french roast coffee 3/4 tbsp
 honey 1 tsp
@@ -9,3 +10,4 @@ raisins 10
 60 sec wait after stirring and before next step
 
 spoon removed after stirs
+</pre>
