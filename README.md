@@ -1,3 +1,5 @@
+Pour coffee into hot water
+
 <pre>
 # coffee
 starbucks french roast coffee 3/4 tbsp
