@@ -13,3 +13,7 @@ raisins 10
 
 spoon removed after stirs
 </pre>
+
+### Additional Dosing Instructions
+
+Drink some, lithegulp some, drink some; roughly 5-10 sec separation
