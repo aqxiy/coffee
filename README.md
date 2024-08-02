@@ -12,6 +12,11 @@ raisins 10
 60 sec wait after stirring and before next step
 
 spoon removed after stirs
+
+spoon for stirring is best either a larger teaspoon or smaller tablespoon
+
+spoon for measuring honey is a regular teaspoon
+  
 </pre>
 
 ### Additional Dosing Instructions
