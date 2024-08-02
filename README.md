@@ -16,4 +16,6 @@ spoon removed after stirs
 
 ### Additional Dosing Instructions
 
-Drink some, lithegulp some, drink some; roughly 5-10 sec separation
+Best aqxiy/sortdrink 3 mins after around 20 raisins on an empty stomach
+
+github.com/aqxiy/sortdrink
